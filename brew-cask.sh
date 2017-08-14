@@ -17,3 +17,7 @@ docker \
 dropbox \
 whatsapp \
 sketch
+
+echo ">>> Cleanup cache"
+brew cask cleanup 
+
