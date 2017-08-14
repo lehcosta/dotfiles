@@ -14,4 +14,6 @@ firefox \
 spectacle \
 docker \
 1password \
-dropbox
+dropbox \
+whatsapp \
+sketch
