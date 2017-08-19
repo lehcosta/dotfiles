@@ -16,7 +16,11 @@ docker \
 1password \
 dropbox \
 whatsapp \
-sketch
+sketch \
+transmit \
+caskroom/versions/sequel-pro-nightly \
+vlc \
+robo-3t
 
 echo ">>> Cleanup cache"
 brew cask cleanup 
