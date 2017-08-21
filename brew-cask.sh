@@ -21,7 +21,8 @@ transmit \
 caskroom/versions/sequel-pro-nightly \
 vlc \
 robo-3t \
-phpstorm
+phpstorm \
+the-unarchiver
 
 echo ">>> Cleanup cache"
 brew cask cleanup 
